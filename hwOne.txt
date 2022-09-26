@@ -1,1 +1,3 @@
 Hello, my name is "Doan Mong" and I am working on hw1
+
+Hello, our names are “Doan” and “Cody” and we are working on hw3 together
